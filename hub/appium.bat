@@ -1,0 +1,1 @@
+appium --nodeconfig android8.json -p 5000
